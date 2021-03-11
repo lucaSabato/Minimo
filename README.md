@@ -1,1 +1,3 @@
-README.md
+Minimo
+
+- Barebone WordPress Plugin
